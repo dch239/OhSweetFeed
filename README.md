@@ -1,6 +1,7 @@
 # ohhsweetfeed
 
-Bakery App
+This is a bakery item shopping app developed in Flutter and Firebase.
+Still under development. 
 
 ## Getting Started
 
