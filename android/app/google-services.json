@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "900111520751",
+    "firebase_url": "https://ohsweetfeed.firebaseio.com",
+    "project_id": "ohsweetfeed",
+    "storage_bucket": "ohsweetfeed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900111520751:android:9174199cac8664c59f9c1a",
+        "android_client_info": {
+          "package_name": "com.dhirajch239.ohhsweetfeed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900111520751-krq9e3dciu9sv6tblq149gt1oq80rj4h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPUpagz-uvRhgtL_ZUlLL8iRdY-7HX0Ok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900111520751-krq9e3dciu9sv6tblq149gt1oq80rj4h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
